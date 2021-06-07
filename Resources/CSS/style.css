@@ -262,7 +262,7 @@ p{
 }
 
 .text {
-  white-space: nowrap;
+  white-space: normal;
   color: #ccf8ff;
   font-size: 2rem;
   font-family: 'Catamaran', sans-serif;
